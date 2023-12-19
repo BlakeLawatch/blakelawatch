@@ -14,3 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+🏫 I am a recent graduate of Boise Codeworks Academy. We learned so much about coding in 13 weeks, and there is still so much to learn. I can't believe how far I've come in that time, but I know it's only a drop in the vast bucket that is the coding universe.
+
+💻 At the moment, I am just looking for experience and to continue learning. I am aware of how far I have to go, but I couldn't be more excited to do it. I have a few small projects I am working on, and hopefully will deploy both of them live by the end of January 2024.
